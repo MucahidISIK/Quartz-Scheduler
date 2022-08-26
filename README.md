@@ -3,5 +3,5 @@ Quartz classes thats built with Quartz 3.4.0 Library to schedule an API worktime
 
 Requirements
 - Download Quartz 3.4.0 NuGet.
-- Connect to the API called CurrencyServiceDB in my repository.
+- Connect to the API called CurrenciesServiceDB in my repository.
 - Add "UpdateScheduler.UpdateCurrencyDBJobScheduler.Start();" to your main class.
